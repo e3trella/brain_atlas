@@ -1,0 +1,103 @@
+general:
+  - AQP4
+  - STAT3
+  - AHR
+  - MAFG
+  - MAT2A
+  - VIM
+  - LHX2
+  - CD44
+  - TIMP1
+  - TNFSF10
+  - FERMT2
+  - EZR
+
+homeostasis:
+  - SLC1A2
+  - SLC1A3
+  - FERMT2
+  - EZR
+  - AHR
+  - TNFSF10
+
+activities:
+  - IL27
+  - FASLG
+  - TNFSF10
+  - IL15
+  - TNFSF13B
+  - CXCL12
+  - CD80
+  - CD86
+  - CCL1
+  - CCL2
+  - CCL20
+  - CXCL10
+  - IL33
+  - IL3
+  - ORM2
+
+proinflammatory:
+  - C3
+  - IL6
+  - CCL2
+  - CSF2
+  - NOS2
+  - CCL20
+  - CXCL1
+  - CXCL2
+  - CXCL10
+  - CCL1
+  - IL3
+  - B4GALT6
+  - S1PR1
+  - PLA2G4A
+  - MAVS
+  - SIGMAR1
+  - ERN1
+  - XBP1
+  - MAFG
+  - MAT2A
+  - FLT1
+  - TNFRSF11A
+
+antiinflammatory:
+  - TNFSF10
+  - FASLG
+  - IL27
+  - ENTPD1
+  - NT5E
+  - ORM2
+  - IL33
+  - AREG
+  - AHR
+  - TIMP1
+  - EGFR
+  - NR3C2
+  - NCOR2
+
+neurotoxic:
+  - C3
+  - LCN2
+  - NOS2
+  - B4GALT6
+  - PLA2G4A
+  - MAVS
+  - S1PR1
+  - VIM
+  - LHX2
+  - CD44
+  - SLC1A2
+  - SLC1A3
+  - NR4A2
+
+regeneration:
+  - WNT1
+  - CSPG4
+  - CSPG5
+  - CNTF
+  - STAT3
+  - CCL2
+  - IL1B
+  - AREG
+  - IL33

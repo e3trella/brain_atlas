@@ -1,0 +1,14 @@
+cluster,order,level1,level2,level3,confidence,key_markers,literature_match,note
+1,1,Microglia,Homeostatic,MG_Homeo_CX3CR1,high,CX3CR1;P2RY12;PRDM11,Sun2023 MG0,enriched in midbrain
+0,2,Microglia,Homeostatic,MG_Homeo_LowFeature,provisional,none,possibly FRMD4A homeostatic state,enriched in cortex; low gene detection
+9,3,Microglia,Homeostatic,MG_Homeo_PCDH9,medium,PCDH9;ST18;MOBP,Chen2024 PCDH9 microglia; Sun2023 MG1,oligodendrocyte transcript signal
+10,4,Microglia,Homeostatic,MG_Homeo_GPR183,medium,GPR183;FOS;CD69;EGR3,Tuddenham2024 IEG subset,IEG program on homeostatic background
+6,5,Microglia,Stress,MG_Stress_HSP,medium,DNAJA4;BAG3;HSPA6;CCL4,Sun2023 MG6; Green2024 Mic.13 LPL_CD83,
+3,6,Microglia,Inflammatory,MG_Inflam_TMEM163,high,TMEM163;IL4R;CPEB4;CD163,Sun2023 MG2,IL1B low;weaker end of C7 program
+7,7,Microglia,Inflammatory,MG_Inflam_IL1B,high,IL1B;SOCS3;HAMP;FLT1,Sun2023 MG10 and MG7,IL1B high
+2,8,Microglia,Lipid-associated,MG_Lipid_GPNMB,high,GPNMB;CPM;MITF,Sun2023 MG4; ROSMAP GPNMB subtype; HuMicA Lipo.DAM,shares program with C8
+4,9,Microglia,Ribosome biogenesis,MG_Ribo_MHC,medium,C1QB;HLA-DRA;CD74;FTL,Sun2023 MG3; Tuddenham2024 CD74-high subset,high-abundance cytoplasmic transcripts
+11,10,Microglia,Undetermined,MG_IRF4_striatum,provisional,NPIPB3;ZNG1C;IRF4,none,almost entirely striatum; paralog gene families
+12,11,Microglia,Proliferating,MG_Prolif_MKI67,high,MKI67;TOP2A;CENPF,Sun2023 MG12,
+8,12,BAM,BAM,BAM_LYVE1,high,F13A1;LYVE1;MRC1,BAM,
+5,13,T_NK,T_NK,T_NK_CD8,high,CD3E;CD8A;NKG7,none,
